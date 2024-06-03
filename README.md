@@ -10,6 +10,7 @@ Měření teploty: Použití teplotního senzoru pro přesné měření teploty 
 Měření vlhkosti: Vlhkostní senzor poskytuje aktuální hodnoty vlhkosti vzduchu.
 
 Měření tlaku: Barometrický senzor monitoruje atmosférický tlak.
+
 Webové rozhraní: Data jsou přístupná a vizualizovaná prostřednictvím uživatelsky přívětivého webového rozhraní.
 
 Data logging: Ukládání historických dat pro pozdější analýzu a zobrazení trendů.
