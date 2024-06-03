@@ -6,6 +6,7 @@ Tento projekt představuje domácí meteorologickou stanici, která umožňuje m
 # Funkce
 
 Měření teploty: Použití teplotního senzoru pro přesné měření teploty v reálném čase.
+
 Měření vlhkosti: Vlhkostní senzor poskytuje aktuální hodnoty vlhkosti vzduchu.
 Měření tlaku: Barometrický senzor monitoruje atmosférický tlak.
 Webové rozhraní: Data jsou přístupná a vizualizovaná prostřednictvím uživatelsky přívětivého webového rozhraní.
