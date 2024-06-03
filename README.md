@@ -1,4 +1,4 @@
-# Projekt
+# Projekt SmartH
 Domácí Meteorologická Stanice
 
 Tento projekt představuje domácí meteorologickou stanici, která umožňuje měřit a monitorovat různé meteorologické parametry, jako jsou teplota, vlhkost, tlak a další. Stanice je vybavena různými senzory a mikrokontrolérem, který sbírá data a zobrazuje je na webovém rozhraní.
